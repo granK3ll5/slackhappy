@@ -1,0 +1,31 @@
+{
+"text": "\"_We know what it means to serve._\"",
+"attachments": [
+	{
+	"color": "#ff9999",
+	"title": "What is Slack?",
+	"Pretext": "Welcome to Slack! I am the WelcomingBot and my job is to get you situated as fast as possible so you can start using Slack!",
+	"text": "Slack is a new collaboration tool that ties together your work and colleagues into one big communication hub. Slack utilizes channels for organized conversations along with a searchable archieve of your team's documents, decisions, events etc., putting knowledge in everyone's hand."
+	},
+	{
+	"color": "#00ffff",
+	"title": "Is there a go link?",
+	"text": "Yes. Visit <https://api.slack.com/|go/slackwiki>"
+	},
+	{
+	"color": "#ff9900",
+	"title": "Who should I contact if I have questions?",
+	"text": "•\tYou can find help in the #slack-help channel\n•\tVist the <https://get.slack.help/hc/en-us|Slack Help Wiki> website for offical documentation\n\nNot finding what you are looking for? Please contact us at:\nENT_KNOWLEDGE_SERVIC@INTERNAL.USAA.COM.\n"
+	},
+	{
+	"color": "#00cc99",
+	"title": "Slack End-User Tutorial",
+	"text": "If you have never used Slack before or would like a refresher, click the \"Fundamentals for End-Users\" link below.\n<https://get.slack.help/hc/en-us/articles/115005333523|Fundamentals for End-Users>"
+	},
+	{
+	"color":"#ff3399",
+	"title": "Mandetory Task",
+	"text": "•\t<https://get.slack.help/hc/en-us/articles/219889247-Change-your-time-zone|Change My Time Zone Guide>\n•\t<https://get.slack.help/hc/en-us/articles/205239967-Browse-and-join-channels|Browse and Join Channels>\n•\t<https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability|Set Your Availability>"
+	}
+	]
+}

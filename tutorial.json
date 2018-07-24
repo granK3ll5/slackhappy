@@ -1,0 +1,12 @@
+{
+"welcome":{
+"title": "Slack End-User Tutorial",
+"event" : "reaction_added",
+"text": "If you have never used Slack before or would like to refresh your memory on how to use Slack, click the \"Fundamentals for End-Users\" link below.\nWhen you have completed the tutorial, respond to this message with the :thumbsup: emoji.\n<https://get.slack.help/hc/en-us/articles/115005333523|Fundamentals for End-Users>"
+},
+}
+{
+"title": "What do I do now?",
+"text": "•\t<https://get.slack.help/hc/en-us/articles/219889247-Change-your-time-zone|Change My Time Zone Guide>\n•\t<https://get.slack.help/hc/en-us/articles/205239967-Browse-and-join-channels|Browse and Join Channels>\n•\t<https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability|Set Your Availability>"
+}
+}
