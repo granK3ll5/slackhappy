@@ -30,14 +30,14 @@ app.use('/events', slackEvents.expressMiddleware());
 //app.use('/slack/actions', slackInteractions.expressMiddleware());
 
 
-
+//React on slack events for member joining channel; clean up with functions
 slackEvents.on('member_joined_channel', (event)=> {
 	bot.channels.info({channel: event.channel})
 	.then((res)=> {
 		const spChannel = res.channel.name;
 		console.log('Member has joined a channel');
 
-		if(spChannel !== 'announcements-usaa') {
+		if(spChannel !== 'announcements') {
 		console.log(`User did not join the specified channel...Will not send message`);
 	} else {
 		console.log(`Member has joined the specified channel...Proceeding to send messgae...`);
