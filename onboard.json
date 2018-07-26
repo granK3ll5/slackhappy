@@ -1,5 +1,4 @@
 {
-"text": "\"_We know what it means to serve._\"",
 "attachments": [
 	{
 	"color": "#ff9999",
@@ -9,13 +8,13 @@
 	},
 	{
 	"color": "#00ffff",
-	"title": "Is there a go link?",
+	"title": "Is there a link?",
 	"text": "Yes. Visit <https://api.slack.com/|go/slackwiki>"
 	},
 	{
 	"color": "#ff9900",
 	"title": "Who should I contact if I have questions?",
-	"text": "•\tYou can find help in the #slack-help channel\n•\tVist the <https://get.slack.help/hc/en-us|Slack Help Wiki> website for offical documentation\n\nNot finding what you are looking for? Please contact us at:\nENT_KNOWLEDGE_SERVIC@INTERNAL.USAA.COM.\n"
+	"text": "•\tYou can find help in the #slack-help channel\n•\tVist the <https://get.slack.help/hc/en-us|Slack Help Wiki> website for offical documentation\n\nNot finding what you are looking for? Please contact us at:"
 	},
 	{
 	"color": "#00cc99",
